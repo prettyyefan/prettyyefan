@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prettyyefan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Prettyyefan's%20GitHub%20Stats" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prettyyefan&layout=compact&theme=tokyonight&langs_count=6&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
 </p>
 
